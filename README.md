@@ -1,2 +1,2 @@
-# i-discuss
-i-discuss
+# i-discuss-web
+i-discuss-web
